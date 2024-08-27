@@ -70,11 +70,11 @@ pip install paramiko scp plexapi
 
 ## Example
 
-For example, if you have a playlist named "Keido," the script will:
+For example, if you have a playlist named "test," the script will:
 
-- Create a directory named `./Keido`.
-- Copy all files from the "Keido" playlist into this directory.
-- Compress the directory into `Keido.zip`, `Keido.tar.gz`, and `Keido.7z`.
+- Create a directory named `./test`.
+- Copy all files from the "test" playlist into this directory.
+- Compress the directory into `test.zip`, `test.tar.gz`, and `test.7z`.
 
 ## Troubleshooting
 
