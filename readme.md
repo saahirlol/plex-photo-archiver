@@ -1,8 +1,5 @@
-# Photo Archiving Tool
 
-## Overview
-
-The Photo Archiving Tool is a Python script designed to automate the process of copying media files from a Plex playlist to a local directory and compressing them into multiple archive formats. It uses SSH to securely transfer files from a remote server where your Plex server is hosted. The script supports ZIP, TAR.GZ, and 7z compression formats, providing flexibility in how you archive your media.
+The Plex Photo Archiver is a Python script designed to automate the process of copying media files from a Plex playlist to a local directory and compressing them into multiple archive formats. It uses SSH to securely transfer files from a remote server where your Plex server is hosted. The script supports ZIP, TAR.GZ, and 7z compression formats, providing flexibility in how you archive your media.
 
 ## Features
 
